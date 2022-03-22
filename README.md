@@ -1,1 +1,2 @@
-# solving-mnist-dataset-problems
+# Решение проблем набора данных MNIST
+Это репозиторий, в котором хранятся все этапы разработки проекта "Решение проблем набора данных MNIST". Для чтения кода смотреть файл MNIST.ipynb (для открытия нужна программа jupyter-notebook, jupyter-lab или любая другая программа для открытия файлов \*.ipynb, а также библиотеки для Python версии 3.x *tensorflow, keras, matplotlib, numpy*).
